@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 深度学习与PDE
 
-You can use the [editor on GitHub](https://github.com/NeuralPDE/neuralpde.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+【主题】深度学习与偏微分方程 学术交流会
+【时间】2021年 12 月 17-19日
+【报名截止】2021年12月15日
+【地点】腾讯会议（或者录播）
+```
+```
+您可以分享您已经发表或尚未发表的文章，
+不限于您本人的工作，
+可以是您学到的任意相关内容,
+甚至是提出一些尚未解决的有趣的问题。
+(注:本次报告仅为促进学术交流，不产生任何费用)
+```
+深度学习与PDE交流微信群 18234056952
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeuralPDE/neuralpde.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![二维码](https://user-images.githubusercontent.com/95953452/145667725-8c54d23c-97b2-4375-9c74-b029af8b20c0.jpg)
+ 
+ [报名连接](t1.ink/f/ejcd1m)

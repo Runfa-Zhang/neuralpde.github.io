@@ -1,7 +1,8 @@
 ## 深度学习与微分方程学术研讨会
 
 >【时间】2021年 12 月 17-18日\
->【地点】腾讯会议 621-753-303
+>【地点】腾讯会议 621-753-303\
+>  若人满无法进入会议可以观看[会议直播](https://meeting.tencent.com/l/VBeSNmXCW26h)
 
 ![](https://user-images.githubusercontent.com/95953452/146124366-dd3be494-43c3-4c51-8332-9a216edb7723.png)
 

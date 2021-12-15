@@ -3,9 +3,7 @@
 >【时间】2021年 12 月 17-18日\
 >【地点】腾讯会议 621-753-303
 
-
-![深度学习与微分方程学术研讨会](https://user-images.githubusercontent.com/95953452/146114857-31ceed37-0228-4349-ba4f-1fa052c08b32.png)
-
+![](https://user-images.githubusercontent.com/95953452/146124366-dd3be494-43c3-4c51-8332-9a216edb7723.png)
 
 深度学习与PDE交流微信群(永久二维码) 18234056952
 
